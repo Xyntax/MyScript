@@ -1,10 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-__author__ = 'xy'
 
 """
 gentrees.py - generate the tree of specified directory
 """
+
 import os
 import optparse
 
@@ -120,7 +120,7 @@ def _parse_args():
         default='./', help='the path to generate the tree [default: %default]')
     parser.add_option(
         '-o', '--out', dest='file', action='store', type='string',
-        help='the file to save the result [default: pathname.trees]')
+        help='the file to save the result [default: pathname_trees.txt]')
     options, args = parser.parse_args()
     # positional arguments are ignored
     return options
@@ -143,7 +143,7 @@ def main():
         filename = options.file
     else:
         name = os.path.basename(path.rstrip('/'))
-        filename = '%s.txt' % name
+        filename = '%s_.trees' % name
     result = tree.write2file(filename)
     print('Write to file `%s` %s' % (filename, 'success' if result else 'failed'))
     return 0 if result else 1

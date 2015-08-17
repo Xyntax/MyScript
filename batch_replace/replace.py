@@ -50,10 +50,6 @@ def usage():
     print(sys.argv[0] + ' -i helllo -o hello')
     print(sys.argv[0] + ' -p /home/xy/workspace -i helllo -o hello -e .txt')
 
-    print('-----------------')
-    print('create by xy 150813')
-    print('connect: xyntax@163.com')
-
     input()
     sys.exit()
 
