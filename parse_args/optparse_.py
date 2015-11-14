@@ -26,8 +26,10 @@ def parse_args():
 
     parser = optparse.OptionParser(usage)
 
-    _, addresses = parser.parse_args()
-
+    # _ = <Values at 0x7f6e5f76d488: {}>
+    # address = ['111', '222', '333']
+    addresses = parser.parse_args()[1]
+    # print(addresses)
     if not addresses:
         print parser.format_help()
         parser.exit()
@@ -44,4 +46,7 @@ def parse_args():
 
         return host, int(port)
 
+    # return [('127.0.0.1', 111), ('127.0.0.1', 222), ('127.0.0.1', 333)]
     return map(parse_address, addresses)
+
+# print(parse_args())

