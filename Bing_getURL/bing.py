@@ -3,10 +3,14 @@ import requests
 import re
 import sys
 import time
+from urllib import quote
 
 """
 get URLs from Bing
 xy 2015.11.13
+
+添加中文转码，优化输出文件名
+xy 2015.12.01
 """
 
 
@@ -20,8 +24,10 @@ class getURLs(object):
         page_count = 1
 
         print '[*] testing page 1'
-
-        url = 'http://cn.bing.com/search?q=%s&first=' % keyword + str(page_count)
+        # 使用quote()对中文转码
+        url = 'http://cn.bing.com/search?q=%s&first=' % quote(keyword) + str(page_count)
+        print url
+        exit
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -95,5 +101,5 @@ if __name__ == '__main__':
     geturls = getURLs()
     keyword = raw_input('keyword for searching: >')
     pages = raw_input('how many pages u want download? >')
-    filename = str(time.clock()) + 'Bing_URLs'
+    filename = str(keyword.replace(" ","-") + '_Bing-URLs')
     geturls.getURL(keyword, filename, pages)
