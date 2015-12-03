@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?><shodan><summary date="2015-12-02 11:09:24.898621" query="Resin/3.0.21 ETag country:cn" total="100"><countries><country count="100" name="CN"/></countries></summary><host city="Jinan" country="CHN" ip="222.133.33.114" latitude="36.6683" longitude="116.9972" port="8080" updated="01.12.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATGSlAUd&quot;
+Last-Modified: Thu, 04 Aug 2011 02:16:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 01 Dec 2015 00:01:56 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="183.63.10.180" latitude="23.1167" longitude="113.25" port="8080" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATQS5mSO&quot;
+Last-Modified: Tue, 06 Dec 2011 10:23:36 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 19:46:04 GMT
+
+</data></host><host city="Wenzhou" country="CHN" ip="220.189.244.202" latitude="27.9994" longitude="120.6668" port="8080" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASKBlfRs&quot;
+Last-Modified: Thu, 16 Jul 2009 03:23:24 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 17:42:21 GMT
+
+</data></host><host city="Xining" country="CHN" ip="220.167.223.43" latitude="36.6167" longitude="101.7667" port="8010" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAULaC7Zw&quot;
+Last-Modified: Tue, 10 Dec 2013 01:07:50 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 12:29:27 GMT
+
+</data></host><host city="Lanzhou" country="CHN" hostnames="178.72.178.61.dail.lz.gs.dynamic.163data.com.cn" ip="61.178.72.178" latitude="36.0564" longitude="103.7922" port="8000" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATcqmGjs&quot;
+Last-Modified: Tue, 08 May 2012 03:57:40 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 12:15:54 GMT
+
+</data></host><host city="Hefei" country="CHN" ip="60.175.176.52" latitude="31.8639" longitude="117.2808" port="8080" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASDMQ1bF&quot;
+Last-Modified: Wed, 22 Apr 2009 05:19:06 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 10:18:39 GMT
+
+</data></host><host city="Guiyang" country="CHN" ip="222.85.150.27" latitude="26.5833" longitude="106.7167" port="8080" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAVDMD9jO&quot;
+Last-Modified: Tue, 03 Nov 2015 06:36:42 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 07:13:06 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="114.251.68.227" latitude="39.9289" longitude="116.3883" port="80" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATSx7LSX&quot;
+Last-Modified: Fri, 06 Jan 2012 07:30:07 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 06:30:45 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="113.105.68.7" latitude="23.1167" longitude="113.25" port="8080" updated="30.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASDHuSMH&quot;
+Last-Modified: Tue, 21 Apr 2009 08:09:40 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 30 Nov 2015 04:41:55 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="202.121.93.8" latitude="31.0456" longitude="121.3997" port="80" updated="29.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAT8wp5NP&quot;
+Last-Modified: Tue, 11 Jun 2013 00:34:16 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 29 Nov 2015 08:38:50 GMT
+
+</data></host><host country="CHN" ip="120.209.140.38" latitude="35.0" longitude="105.0" port="8080" updated="29.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUNRxuVw&quot;
+Last-Modified: Thu, 02 Jan 2014 07:07:05 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 29 Nov 2015 07:45:06 GMT
+
+</data></host><host city="Beijing" country="CHN" hostnames="78.12.143.219.broad.bj.bj.dynamic.163data.com.cn" ip="219.143.12.78" latitude="39.9289" longitude="116.3883" port="80" updated="29.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASr8AOTD&quot;
+Last-Modified: Fri, 10 Sep 2010 14:16:11 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 29 Nov 2015 03:58:20 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="218.241.129.157" latitude="39.9289" longitude="116.3883" port="8080" updated="29.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS7DAB1A&quot;
+Last-Modified: Thu, 17 Mar 2011 08:48:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 29 Nov 2015 00:32:24 GMT
+
+</data></host><host city="Jiaxing" country="CHN" ip="61.153.231.141" latitude="30.7522" longitude="120.75" port="8080" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASqtLYbC&quot;
+Last-Modified: Thu, 26 Aug 2010 06:54:56 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 20:23:51 GMT
+
+</data></host><host country="CHN" ip="120.209.140.27" latitude="35.0" longitude="105.0" port="80" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUKexKnw&quot;
+Last-Modified: Thu, 28 Nov 2013 12:52:38 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 20:12:25 GMT
+
+</data></host><host city="Hebei" country="CHN" ip="121.17.166.73" latitude="39.8897" longitude="115.275" port="8080" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATmWQmjK&quot;
+Last-Modified: Wed, 05 Sep 2012 11:48:18 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 17:38:20 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="211.103.188.214" latitude="39.9289" longitude="116.3883" port="80" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATSx7LSX&quot;
+Last-Modified: Fri, 06 Jan 2012 07:30:07 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 13:03:09 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="222.72.132.71" latitude="31.0456" longitude="121.3997" port="8080" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARsndkWx&quot;
+Last-Modified: Tue, 15 Jul 2008 16:03:27 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 11:56:19 GMT
+
+</data></host><host city="Hefei" country="CHN" hostnames="66.26.191.61.broad.static.hf.ah.cndata.com" ip="61.191.26.66" latitude="31.8639" longitude="117.2808" port="8080" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUWSR1jm&quot;
+Last-Modified: Thu, 24 Apr 2014 05:48:40 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 11:17:48 GMT
+
+</data></host><host city="Ningbo" country="CHN" ip="122.227.167.254" latitude="29.8782" longitude="121.5495" port="8080" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASXXGZYg&quot;
+Last-Modified: Mon, 28 Dec 2009 21:03:16 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 10:47:59 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="116.239.8.130" latitude="31.0456" longitude="121.3997" port="9080" updated="28.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAR/pZIqL&quot;
+Last-Modified: Mon, 09 Mar 2009 04:01:34 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 28 Nov 2015 07:07:15 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="123.127.89.253" latitude="39.9289" longitude="116.3883" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATQmRDFF&quot;
+Last-Modified: Sat, 10 Dec 2011 04:38:50 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 22:55:59 GMT
+
+</data></host><host country="CHN" ip="124.118.253.168" latitude="43.801" longitude="87.6005" port="80" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAR+EEhH+&quot;
+Last-Modified: Tue, 17 Feb 2009 11:49:50 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 20:10:28 GMT
+
+</data></host><host city="Hefei" country="CHN" ip="220.180.150.241" latitude="31.8639" longitude="117.2808" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAT4XK8gx&quot;
+Last-Modified: Wed, 17 Apr 2013 08:45:45 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 18:16:40 GMT
+
+</data></host><host city="Nanjing" country="CHN" ip="221.226.149.17" latitude="32.0617" longitude="118.7778" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAR2T7+Wg&quot;
+Last-Modified: Thu, 13 Nov 2008 03:40:52 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 16:59:59 GMT
+
+</data></host><host city="Jinan" country="CHN" ip="222.132.50.210" latitude="36.6683" longitude="116.9972" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASfrzfZu&quot;
+Last-Modified: Sun, 11 Apr 2010 07:38:16 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 13:30:36 GMT
+
+</data></host><host city="Hefei" country="CHN" ip="220.178.198.101" latitude="31.8639" longitude="117.2808" port="80" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS0oJVuI&quot;
+Last-Modified: Mon, 27 Dec 2010 14:04:53 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 13:16:48 GMT
+
+</data></host><host city="Zhengzhou" country="CHN" hostnames="hn.ly.kd.adsl" ip="61.163.57.211" latitude="34.6836" longitude="113.5325" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAR+S5lrf&quot;
+Last-Modified: Fri, 20 Feb 2009 08:56:24 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 10:59:50 GMT
+
+</data></host><host city="Tianjin" country="CHN" ip="60.28.196.11" latitude="39.1422" longitude="117.1767" port="80" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;E0iV4LxXqzU&quot;
+Last-Modified: Fri, 22 Nov 2013 06:53:41 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 15
+Date: Fri, 27 Nov 2015 08:04:33 GMT
+
+</data></host><host city="Tianjin" country="CHN" ip="111.160.172.34" latitude="39.1422" longitude="117.1767" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUlMbt9E&quot;
+Last-Modified: Sun, 26 Oct 2014 12:29:34 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 07:02:59 GMT
+
+</data></host><host city="Nanning" country="CHN" ip="116.10.199.72" latitude="22.8167" longitude="108.3167" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASC/KpR/&quot;
+Last-Modified: Sun, 19 Apr 2009 16:17:00 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 05:33:07 GMT
+
+</data></host><host city="Jining" country="CHN" ip="120.193.192.73" latitude="35.405" longitude="116.5814" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS0Ljeow&quot;
+Last-Modified: Wed, 22 Dec 2010 00:50:06 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 24 Nov 2015 05:20:45 GMT
+
+</data></host><host city="Taiyuan" country="CHN" hostnames="162.220.220.60.adsl-pool.sx.cn" ip="60.220.220.162" latitude="37.7269" longitude="112.4708" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARz5KhlT&quot;
+Last-Modified: Tue, 14 Oct 2008 02:23:17 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 04:24:09 GMT
+
+</data></host><host city="Guiyang" country="CHN" ip="222.85.150.53" latitude="26.5833" longitude="106.7167" port="8080" updated="27.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAVDMD9jO&quot;
+Last-Modified: Tue, 03 Nov 2015 06:36:42 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 27 Nov 2015 00:56:14 GMT
+
+</data></host><host city="Hangzhou" country="CHN" ip="122.224.145.53" latitude="30.2936" longitude="120.1614" port="8080" updated="26.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARt22LDw&quot;
+Last-Modified: Thu, 31 Jul 2008 02:00:57 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 26 Nov 2015 22:51:07 GMT
+
+</data></host><host city="Nanjing" country="CHN" ip="221.226.6.22" latitude="32.0617" longitude="118.7778" port="80" updated="26.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASWvr+a2&quot;
+Last-Modified: Mon, 21 Dec 2009 05:22:38 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 26 Nov 2015 13:42:30 GMT
+
+</data></host><host city="Hefei" country="CHN" ip="58.242.162.230" latitude="31.8639" longitude="117.2808" port="8090" updated="26.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATgsjSvY&quot;
+Last-Modified: Wed, 27 Jun 2012 06:07:25 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 26 Nov 2015 09:31:35 GMT
+
+</data></host><host city="Hefei" country="CHN" ip="61.190.20.51" latitude="31.8639" longitude="117.2808" port="80" updated="26.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATAwMxkY&quot;
+Last-Modified: Fri, 27 May 2011 06:45:13 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 26 Nov 2015 07:10:38 GMT
+
+</data></host><host city="Shenyang" country="CHN" ip="218.25.216.115" latitude="41.7922" longitude="123.4328" port="80" updated="26.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATPPrBwo&quot;
+Last-Modified: Wed, 23 Nov 2011 09:05:22 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 26 Nov 2015 03:40:16 GMT
+
+</data></host><host city="Guangzhou" country="CHN" hostnames="reverse.gdsz.cncnet.net" ip="58.251.8.76" latitude="23.1167" longitude="113.25" port="8000" updated="25.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARjvAnej&quot;
+Last-Modified: Thu, 27 Mar 2008 06:52:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 25 Nov 2015 23:57:35 GMT
+
+</data></host><host city="Nanning" country="CHN" ip="218.204.52.72" latitude="22.8167" longitude="108.3167" port="9080" updated="25.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARWNWkjv&quot;
+Last-Modified: Thu, 11 Oct 2007 04:37:25 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 25 Nov 2015 19:12:24 GMT
+
+</data></host><host country="CHN" ip="111.20.113.182" latitude="35.0" longitude="105.0" port="8080" updated="25.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASle5x8v&quot;
+Last-Modified: Tue, 22 Jun 2010 09:04:52 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 25 Nov 2015 19:12:50 GMT
+
+</data></host><host city="Lishui" country="CHN" ip="60.190.124.238" latitude="28.4604" longitude="119.9103" port="8090" updated="25.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATfaEDlt&quot;
+Last-Modified: Mon, 11 Jun 2012 05:42:05 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 25 Nov 2015 18:17:48 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="183.62.233.166" latitude="23.1167" longitude="113.25" port="8000" updated="25.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARjvAnej&quot;
+Last-Modified: Thu, 27 Mar 2008 06:52:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 25 Nov 2015 14:51:38 GMT
+
+</data></host><host city="Jinan" country="CHN" hostnames="mail1.kehui.cn" ip="222.134.133.110" latitude="36.6683" longitude="116.9972" port="80" updated="25.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATxmaThw&quot;
+Last-Modified: Wed, 23 Jan 2013 07:57:17 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 25 Nov 2015 05:06:37 GMT
+
+</data></host><host city="Hefei" country="CHN" hostnames="210.27.191.61.broad.static.hf.ah.cndata.com" ip="61.191.27.210" latitude="31.8639" longitude="117.2808" port="80" updated="25.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASmn+vcx&quot;
+Last-Modified: Tue, 06 Jul 2010 13:38:49 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 25 Nov 2015 01:46:11 GMT
+
+</data></host><host city="Jinan" country="CHN" ip="222.133.44.10" latitude="36.6683" longitude="116.9972" port="8080" updated="24.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATGSlAUd&quot;
+Last-Modified: Thu, 04 Aug 2011 02:16:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 24 Nov 2015 23:51:49 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="60.194.110.187" latitude="39.9289" longitude="116.3883" port="80" updated="24.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATSx7LSX&quot;
+Last-Modified: Fri, 06 Jan 2012 07:30:07 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 24 Nov 2015 22:34:58 GMT
+
+</data></host><host city="Shenyang" country="CHN" ip="218.24.104.18" latitude="41.7922" longitude="123.4328" port="8080" updated="24.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATSNtumw&quot;
+Last-Modified: Fri, 30 Dec 2011 06:45:02 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 24 Nov 2015 17:34:59 GMT
+
+</data></host><host city="Wuhan" country="CHN" ip="59.71.135.253" latitude="30.5801" longitude="114.2734" port="8090" updated="24.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASHm87b7&quot;
+Last-Modified: Tue, 16 Jun 2009 02:44:40 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 24 Nov 2015 16:50:49 GMT
+
+</data></host><host city="Yinchuan" country="CHN" ip="61.133.195.126" latitude="38.4681" longitude="106.2731" port="8090" updated="24.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUTT396g&quot;
+Last-Modified: Tue, 18 Mar 2014 06:27:48 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 24 Nov 2015 11:50:38 GMT
+
+</data></host><host city="Hefei" country="CHN" hostnames="126.27.191.61.broad.static.hf.ah.cndata.com" ip="61.191.27.126" latitude="31.8639" longitude="117.2808" port="8080" updated="24.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASwVeryv&quot;
+Last-Modified: Thu, 04 Nov 2010 06:02:34 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 24 Nov 2015 09:32:36 GMT
+
+</data></host><host city="Jinan" country="CHN" ip="218.59.139.234" latitude="36.6683" longitude="116.9972" port="8086" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASEtdzsE&quot;
+Last-Modified: Mon, 11 May 2009 02:18:57 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 23 Nov 2015 18:30:31 GMT
+
+0033
+&lt;script&gt;location.href=&quot;/ctop/index.jsp&quot;;&lt;/script&gt;
+
+0
+
+</data></host><host city="Taizhou" country="CHN" ip="218.75.9.158" latitude="32.4907" longitude="119.9081" port="80" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAStf6Wt1&quot;
+Last-Modified: Wed, 29 Sep 2010 23:52:34 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 23 Nov 2015 17:47:30 GMT
+
+</data></host><host city="Nanning" country="CHN" ip="219.159.83.81" latitude="22.8167" longitude="108.3167" port="8080" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARkTpS21&quot;
+Last-Modified: Thu, 03 Apr 2008 09:36:42 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 23 Nov 2015 16:29:26 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="58.135.80.206" latitude="39.9289" longitude="116.3883" port="80" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS7DAB1A&quot;
+Last-Modified: Thu, 17 Mar 2011 08:48:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 23 Nov 2015 14:21:07 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="118.186.200.10" latitude="39.9289" longitude="116.3883" port="80" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASDL1FJM&quot;
+Last-Modified: Wed, 22 Apr 2009 03:17:50 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 23 Nov 2015 14:16:11 GMT
+
+</data></host><host city="Tianjin" country="CHN" ip="60.28.196.17" latitude="39.1422" longitude="117.1767" port="80" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;+jQ4OvRC+eb&quot;
+Last-Modified: Fri, 10 Aug 2012 06:19:44 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 15
+Date: Mon, 23 Nov 2015 10:07:19 GMT
+
+</data></host><host city="Jiaxing" country="CHN" ip="60.190.142.93" latitude="30.7522" longitude="120.75" port="80" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASx8aFFr&quot;
+Last-Modified: Wed, 24 Nov 2010 05:43:20 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 23 Nov 2015 08:14:28 GMT
+
+</data></host><host city="Zhuhai" country="CHN" ip="112.91.82.174" latitude="22.2769" longitude="113.5678" port="8080" updated="23.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATQS5mSO&quot;
+Last-Modified: Tue, 06 Dec 2011 10:23:36 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 23 Nov 2015 04:17:04 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="113.66.162.252" latitude="23.1167" longitude="113.25" port="8098" updated="22.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASXXGZYg&quot;
+Last-Modified: Mon, 28 Dec 2009 21:03:16 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 22 Nov 2015 21:01:22 GMT
+
+</data></host><host city="Lianyungang" country="CHN" ip="218.92.22.187" latitude="34.5997" longitude="119.1594" port="8080" updated="22.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARskxjs+&quot;
+Last-Modified: Tue, 15 Jul 2008 03:31:55 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 22 Nov 2015 20:54:25 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="218.14.208.64" latitude="23.1167" longitude="113.25" port="8080" updated="22.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARjohbPQ&quot;
+Last-Modified: Wed, 26 Mar 2008 00:38:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 22 Nov 2015 15:39:41 GMT
+
+</data></host><host city="Hefei" country="CHN" ip="218.22.39.140" latitude="31.8639" longitude="117.2808" port="8080" updated="22.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASXKQqVG&quot;
+Last-Modified: Sat, 26 Dec 2009 09:13:03 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 22 Nov 2015 10:35:21 GMT
+
+</data></host><host city="Wuhan" country="CHN" hostnames="154.236.175.59.broad.wh.hb.dynamic.163data.com.cn" ip="59.175.236.154" latitude="30.5801" longitude="114.2734" port="81" updated="22.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASjx/fcT&quot;
+Last-Modified: Tue, 01 Jun 2010 05:31:12 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 22 Nov 2015 09:32:24 GMT
+
+</data></host><host city="Jinan" country="CHN" ip="222.173.243.206" latitude="36.6683" longitude="116.9972" port="81" updated="22.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATYf5Kt+&quot;
+Last-Modified: Sat, 17 Mar 2012 09:02:21 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sun, 22 Nov 2015 08:08:30 GMT
+
+</data></host><host city="Nanjing" country="CHN" ip="61.155.3.92" latitude="32.0617" longitude="118.7778" port="80" updated="21.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS7DAB1A&quot;
+Last-Modified: Thu, 17 Mar 2011 08:48:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 21 Nov 2015 11:18:56 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="211.144.123.157" latitude="31.0456" longitude="121.3997" port="8080" updated="21.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAU3y9SVm&quot;
+Last-Modified: Sun, 14 Jun 2015 16:44:21 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 21 Nov 2015 10:33:36 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="124.172.184.194" latitude="23.1167" longitude="113.25" port="80" updated="21.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUe0as0g&quot;
+Last-Modified: Fri, 08 Aug 2014 07:00:04 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 21 Nov 2015 00:19:17 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="180.153.253.130" latitude="31.0456" longitude="121.3997" port="8080" updated="21.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS0lW3nK&quot;
+Last-Modified: Mon, 27 Dec 2010 01:05:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 21 Nov 2015 00:11:22 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="59.108.84.205" latitude="39.9289" longitude="116.3883" port="80" updated="20.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATKz+k78&quot;
+Last-Modified: Thu, 29 Sep 2011 06:58:38 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 20 Nov 2015 23:20:26 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="203.156.203.51" latitude="31.0456" longitude="121.3997" port="8080" updated="20.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASVEHd0q&quot;
+Last-Modified: Mon, 30 Nov 2009 08:03:45 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 20 Nov 2015 22:13:40 GMT
+
+</data></host><host city="Zhuhai" country="CHN" ip="112.91.84.118" latitude="22.2769" longitude="113.5678" port="8080" updated="20.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATdZnPSr&quot;
+Last-Modified: Thu, 17 May 2012 07:04:47 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 20 Nov 2015 04:22:28 GMT
+
+</data></host><host city="Jinan" country="CHN" ip="218.56.98.100" latitude="36.6683" longitude="116.9972" port="8080" updated="20.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATsCBHnQ&quot;
+Last-Modified: Thu, 15 Nov 2012 03:02:26 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 20 Nov 2015 00:45:26 GMT
+
+</data></host><host city="Nanjing" country="CHN" ip="218.90.214.94" latitude="32.0617" longitude="118.7778" port="8080" updated="19.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATRt9dja&quot;
+Last-Modified: Sat, 24 Dec 2011 02:45:55 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 19 Nov 2015 21:24:22 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="116.228.10.166" latitude="31.0456" longitude="121.3997" port="80" updated="17.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARvD9Rsb&quot;
+Last-Modified: Fri, 15 Aug 2008 01:22:45 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 17 Nov 2015 23:38:01 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="180.153.253.130" latitude="31.0456" longitude="121.3997" port="80" updated="16.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS0lW3nK&quot;
+Last-Modified: Mon, 27 Dec 2010 01:05:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 16 Nov 2015 23:30:57 GMT
+
+</data></host><host city="Nanjing" country="CHN" ip="222.184.240.70" latitude="32.0617" longitude="118.7778" port="8080" updated="16.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUgXpmCU&quot;
+Last-Modified: Wed, 27 Aug 2014 13:27:32 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 16 Nov 2015 23:10:44 GMT
+
+</data></host><host city="Tianjin" country="CHN" ip="60.28.196.14" latitude="39.1422" longitude="117.1767" port="80" updated="16.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;+YgU8SiTOF4&quot;
+Last-Modified: Thu, 05 Apr 2012 03:56:23 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 15
+Date: Mon, 16 Nov 2015 17:51:37 GMT
+
+</data></host><host city="Changsha" country="CHN" ip="119.44.222.235" latitude="28.1792" longitude="113.1136" port="81" updated="16.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATh5NzM2&quot;
+Last-Modified: Thu, 12 Jul 2012 03:24:17 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 16 Nov 2015 12:07:46 GMT
+
+</data></host><host city="Chongqing" country="CHN" ip="124.162.217.49" latitude="29.5628" longitude="106.5528" port="8090" updated="16.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASnG1prA&quot;
+Last-Modified: Mon, 12 Jul 2010 13:27:20 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 16 Nov 2015 07:10:07 GMT
+
+</data></host><host city="Xian" country="CHN" ip="223.13.176.118" latitude="34.2583" longitude="108.9286" port="8000" updated="16.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASyGDCN/&quot;
+Last-Modified: Fri, 26 Nov 2010 02:38:51 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 16 Nov 2015 01:24:25 GMT
+
+</data></host><host country="CHN" ip="120.210.74.162" latitude="35.0" longitude="105.0" port="80" updated="16.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUPXtm7w&quot;
+Last-Modified: Tue, 28 Jan 2014 07:18:14 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 16 Nov 2015 01:15:13 GMT
+
+</data></host><host city="Zhengzhou" country="CHN" hostnames="hn.ly.kd.adsl" ip="61.163.240.212" latitude="34.6836" longitude="113.5325" port="8080" updated="14.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASiw2sGu&quot;
+Last-Modified: Wed, 19 May 2010 13:57:26 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 14 Nov 2015 20:06:40 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="113.78.134.110" latitude="23.1167" longitude="113.25" port="84" updated="14.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUv7LONw&quot;
+Last-Modified: Sun, 08 Mar 2015 20:56:38 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Date: Sat, 14 Nov 2015 18:51:16 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="61.233.23.179" latitude="39.9289" longitude="116.3883" port="80" updated="14.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATcRtSXn&quot;
+Last-Modified: Thu, 03 May 2012 07:58:33 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 14 Nov 2015 08:38:25 GMT
+
+</data></host><host city="Nanjing" country="CHN" ip="218.2.75.62" latitude="32.0617" longitude="118.7778" port="80" updated="14.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS7DAB1A&quot;
+Last-Modified: Thu, 17 Mar 2011 08:48:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Sat, 14 Nov 2015 03:28:12 GMT
+
+</data></host><host city="Yantai" country="CHN" ip="221.214.220.19" latitude="37.5333" longitude="121.4" port="8080" updated="13.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATG8g6FG&quot;
+Last-Modified: Fri, 12 Aug 2011 05:42:48 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 13 Nov 2015 23:14:49 GMT
+
+</data></host><host country="CHN" ip="111.38.40.77" latitude="35.0" longitude="105.0" port="8112" updated="13.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUIHR74a&quot;
+Last-Modified: Wed, 30 Oct 2013 02:53:31 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Fri, 13 Nov 2015 00:59:54 GMT
+
+</data></host><host city="Beijing" country="CHN" ip="114.251.68.242" latitude="39.9289" longitude="116.3883" port="80" updated="12.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATSx7LSX&quot;
+Last-Modified: Fri, 06 Jan 2012 07:30:07 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 12 Nov 2015 12:32:45 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="221.4.245.218" latitude="23.1167" longitude="113.25" port="8080" updated="11.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAARjohbPQ&quot;
+Last-Modified: Wed, 26 Mar 2008 00:38:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 11 Nov 2015 00:01:50 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="113.66.162.228" latitude="23.1167" longitude="113.25" port="8086" updated="05.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAASXXGZYg&quot;
+Last-Modified: Mon, 28 Dec 2009 21:03:16 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Thu, 05 Nov 2015 07:12:07 GMT
+
+0030
+&lt;script&gt;location.href=&quot;/rap/index.jsp&quot;;&lt;/script&gt;
+0
+
+</data></host><host city="Shanghai" country="CHN" ip="220.248.45.50" latitude="31.0456" longitude="121.3997" port="8080" updated="04.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATAcjrzz&quot;
+Last-Modified: Mon, 23 May 2011 11:12:54 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 04 Nov 2015 12:16:45 GMT
+
+</data></host><host city="Hefei" country="CHN" ip="218.23.240.19" latitude="31.8639" longitude="117.2808" port="8080" updated="04.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATkrCNha&quot;
+Last-Modified: Wed, 15 Aug 2012 16:06:03 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Wed, 04 Nov 2015 00:31:22 GMT
+
+</data></host><host city="Guangzhou" country="CHN" ip="61.146.237.104" latitude="23.1167" longitude="113.25" port="8080" updated="03.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAUXKkiyz&quot;
+Last-Modified: Mon, 05 May 2014 04:09:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 03 Nov 2015 18:02:04 GMT
+
+</data></host><host city="Jinan" country="CHN" ip="222.135.92.70" latitude="36.6683" longitude="116.9972" port="8080" updated="03.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAR9kQTgG&quot;
+Last-Modified: Wed, 11 Feb 2009 07:33:29 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 03 Nov 2015 10:37:03 GMT
+
+</data></host><host city="Suzhou" country="CHN" ip="211.86.128.16" latitude="31.3041" longitude="120.5954" port="80" updated="03.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAATjcDeHI&quot;
+Last-Modified: Tue, 31 Jul 2012 08:01:33 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 03 Nov 2015 02:40:48 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="180.168.44.210" latitude="31.0456" longitude="121.3997" port="8080" updated="02.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS7DAB1A&quot;
+Last-Modified: Thu, 17 Mar 2011 08:48:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 02 Nov 2015 15:48:46 GMT
+
+</data></host><host city="Shanghai" country="CHN" ip="116.228.120.242" latitude="31.0456" longitude="121.3997" port="8080" updated="02.11.2015"><data>HTTP/1.1 200 OK
+Server: Resin/3.0.21
+ETag: &quot;AAAAS7DAB1A&quot;
+Last-Modified: Thu, 17 Mar 2011 08:48:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Mon, 02 Nov 2015 12:20:43 GMT
+
+</data></host></shodan>

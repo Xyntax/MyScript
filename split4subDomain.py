@@ -1,5 +1,4 @@
-import re
-import os
+
 import sys
 filepath = sys.argv[1]
 print("opening " + filepath)

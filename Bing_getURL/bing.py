@@ -25,7 +25,8 @@ class getURLs(object):
 
         print '[*] testing page 1'
         # 使用quote()对中文转码
-        url = 'http://cn.bing.com/search?q=%s&first=' % quote(keyword) + str(page_count)
+        url = 'http://cn.bing.com/search?q=%s&first=' % quote(
+            keyword) + str(page_count)
         print url
         exit
         headers = {
@@ -60,7 +61,8 @@ class getURLs(object):
                 # 这里+10表示下一页
                 page_count += 10
                 print '[*] downloading page %s' % (page_count / 10 + 1)
-                url = 'http://cn.bing.com/search?q=%s&first=' % keyword + str(page_count)
+                url = 'http://cn.bing.com/search?q=%s&first=' % keyword + \
+                    str(page_count)
                 r = requests.get(url)
                 page_content = r.content
                 newpage_url = self.find_allURL(page_content)
@@ -95,11 +97,12 @@ class getURLs(object):
 
 
 if __name__ == '__main__':
+
     print '[    Bing-URL-Tool     ]'
     print '[   edit by xy 151113  ]'
     print '[ any issues:i@cdxy.ME ]'
     geturls = getURLs()
     keyword = raw_input('keyword for searching: >')
     pages = raw_input('how many pages u want download? >')
-    filename = str(keyword.replace(" ","-") + '_Bing-URLs')
+    filename = str(keyword.replace(" ", "-") + '_Bing-URLs')
     geturls.getURL(keyword, filename, pages)
