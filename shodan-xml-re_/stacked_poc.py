@@ -7,6 +7,19 @@ import sys
 import os
 import time
 
+"""
+poc
+金蝶协同办公系统
+
+/kingdee/portal/portal_info.jsp?id=1
+/ctop/portal/portal_info.jsp?id=1
+
+mssql
+shell-9
+
+xy151206
+"""
+
 
 class Test:
 
