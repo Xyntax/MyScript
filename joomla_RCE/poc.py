@@ -23,4 +23,4 @@ req = urllib2.Request(url=sys.argv[1])
 content = opener.open(req).read()
 if 'SERVER["REMOTE_ADDR"]' in content:
     print "vulnerable!"
-    # print content
+    print content
