@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSTI_demo.iml" filepath="$PROJECT_DIR$/.idea/SSTI_demo.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/mooder-master/.idea/mooder-master.iml" filepath="$USER_HOME$/Downloads/mooder-master/.idea/mooder-master.iml" />
+      <module fileurl="file://$USER_HOME$/webapp/.idea/webapp.iml" filepath="$USER_HOME$/webapp/.idea/webapp.iml" />
+    </modules>
+  </component>
+</project>
