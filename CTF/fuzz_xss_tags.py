@@ -1,8 +1,9 @@
 # !/usr/bin/env python
 #  -*- coding: utf-8 -*-
 import requests
+from string import punctuation,whitespace
 
-URL = 'http://58.213.63.30:10006/a0f1b29db350fdac2ad6dc4cb92dbd2b/message.php'
+URL = 'https://router.vip/preview.php'
 
 on = ['onafterprint', 'onbeforeprint', 'onbeforeunload', 'onerror', 'onhaschange', 'onload', 'onmessage',
       'onoffline', 'ononline', 'onpagehide', 'onpageshow', 'onpopstate', 'onredo', 'onresize', 'onstorage',
@@ -20,7 +21,8 @@ tag = ['<!-->', '<!DOCTYPE>', '<a>', '<abbr>', '<acronym>', '<address>', '<apple
        '<button>', '<canvas>', '<caption>', '<center>', '<cite>', '<code>', '<col>', '<colgroup>', '<command>',
        '<datalist>', '<dd>', '<del>', '<details>', '<dfn>', '<dialog>', '<dir>', '<div>', '<dl>', '<dt>', '<em>',
        '<embed>', '<fieldset>', '<figcaption>', '<figure>', '<font>', '<footer>', '<form>', '<frame>', '<frameset>',
-       '<h1> - <h6>', '<head>', '<header>', '<hr>', '<html>', '<i>', '<iframe>', '<img>', '<input>', '<ins>', '<kbd>',
+       '<h1>', '<h2>', '<h3>', '<h4>', '<h5>', '<h6>', '<head>', '<header>', '<hr>', '<html>', '<i>', '<iframe>',
+       '<img>', '<input>', '<ins>', '<kbd>',
        '<keygen>', '<label>', '<legend>', '<li>', '<link>', '<main>', '<map>', '<mark>', '<menu>', '<menuitem>',
        '<meta>', '<meter>', '<nav>', '<noframes>', '<noscript>', '<object>', '<ol>', '<optgroup>', '<option>',
        '<output>', '<p>', '<param>', '<pre>', '<progress>', '<q>', '<rp>', '<rt>', '<ruby>', '<s>', '<samp>',
@@ -35,22 +37,33 @@ tag = ['<!-->', '<!DOCTYPE>', '<a>', '<abbr>', '<acronym>', '<address>', '<apple
 #         ans.append(each.strip())
 #     print ans
 
+filtered = []
+passed = []
+
 
 def check_one(str):
-    DATA = {'Name': '1111122',
-            'Email': '112311@111.com',
-            'Team': '111112111',
-            'textarea': '%s' % str}
+    DATA = {'task': '',
+            'payload': '%s' % str}
     r = requests.post(URL, data=DATA)
-    if r.status_code == 200 and 'Invalid' not in r.content:
-        print str
+    # print(r.status_code, r.content)
+    if r.status_code == 200 and 'XSS Test Page' in r.content:
+        passed.append(str)
+        # print str
+    else:
+        filtered.append(str)
 
 
 def fuzz():
-    for each in on:
+    # for each in on:
+    #     check_one(each)
+    # for each in tag:
+    #     check_one(each)
+    for each in punctuation+whitespace:
         check_one(each)
-    for each in tag:
-        check_one(each)
+
+    print(passed)
+    print(filtered)
 
 
 fuzz()
+# check_one('onload')
